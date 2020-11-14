@@ -6,8 +6,8 @@
 ## 个人信息
 * 姓名：王久铭
 * 学历：本科/沈阳工业大学/信息科学与工程学院/计算机科学与技术/2018.09.01-至今
-* GitHub：<https://github.com/ProgramTraveler>
-* BLog：<https://wangjiuming.top>
+* GitHub：**<https://github.com/ProgramTraveler>**
+* BLog：**<https://wangjiuming.top>**
 * 期望职位：
 ---
 ## 技能清单
@@ -15,7 +15,7 @@
 * 数据库：MySQL
 * 版本管理：Git
 * 日常操作系统：Linux
-* 日常坚持算法和数据结构练习：<https://leetcode-cn.com/u/solitary-scorpio/>
+* 日常坚持算法和数据结构练习：**[My LeetCode](https://leetcode-cn.com/u/solitary-scorpio/)**
 ---
 ## 主要项目
 * 待更新......
