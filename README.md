@@ -15,7 +15,7 @@
 * 数据库：MySQL
 * 版本管理：Git
 * 日常操作系统：Linux
-* 日常坚持算法和数据结构练习：**[My LeetCode](https://leetcode-cn.com/u/solitary-scorpio/)**
+* 日常坚持算法和数据结构练习：**<https://leetcode-cn.com/u/solitary-scorpio/>**
 ---
 ## 主要项目
 * 待更新......
